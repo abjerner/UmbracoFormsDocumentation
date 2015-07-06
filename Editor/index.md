@@ -1,13 +1,13 @@
 #Editor documentation
 Documents how to use the different parts of the Umbraco Forms interface. 
 
-##[Creating a form, the basics](Creating-a-form/index.md)
+##[Creating a form, the basics](Creating-a-Form/index.md)
 Create new forms and add them to your Umbraco site in minutes.
-###[Form settings](Creating-a-form/Form-Settings/index.md)
+###[Form settings](Creating-a-Form/Form-Settings/index.md)
 A look at the settings tab of the form designer
-###[Overview of the default fieldtypes](Creating-a-form/Fieldtypes/index.md)
+###[Overview of the default fieldtypes](Creating-a-Form/Fieldtypes/index.md)
 Complete overview of all the default fieldtypes and how to use them
-###[Setting up conditional logic on fields](Creating-a-form/Conditional-Logic/index.md)
+###[Setting up conditional logic on fields](Creating-a-Form/Conditional-Logic/index.md)
 Show field X if value of field Y is... 
 ##[Attaching workflows](Attaching-Workflows/index.md)
 Extend the functionaly of your forms by adding workflows
